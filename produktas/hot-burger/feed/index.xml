@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Įrašo „Hot Burger“ komentarai	</title>
+	<atom:link href="/produktas/hot-burger/feed/" rel="self" type="application/rss+xml" />
+	<link>/produktas/hot-burger/</link>
+	<description>Tiesiog dar viena WordPress svetainė</description>
+	<lastBuildDate>Sat, 25 Dec 2021 13:45:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Arthur		</title>
+		<link>/produktas/hot-burger/#comment-2</link>
+
+		<dc:creator><![CDATA[Arthur]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 14:49:09 +0000</pubDate>
+		<guid isPermaLink="false">https://startertemplatecloud.com/e09/?post_type=product&#038;p=883#comment-2</guid>
+
+					<description><![CDATA[Super!]]></description>
+			<content:encoded><![CDATA[<p>Super!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
